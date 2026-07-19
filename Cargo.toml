@@ -2,5 +2,12 @@
 name = "gps-rs"
 version = "0.1.0"
 edition = "2024"
+description = "Rust implementation of raw GPS signal acquisition and decode for use with SDRs"
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/JohnnyGOX17/gps-rs"
+repository = "https://github.com/JohnnyGOX17/gps-rs"
+keywords = ["DSP", "SDR", "GPS", "real-time"]
+categories = ["command-line-utilities"]
 
 [dependencies]
